@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ 
+ 
+<h1> <img src="https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs UNSTOPPABLE </h1><p align="center">
+  
 <p align="middle"><a href="https://github.com/MEIZNOOBCODER"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
+ 
 <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MEIZNOOBCODER/count.svg"><br>
 
 
