@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
  
  
- 
 <h1> <img src="https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/codes.webp" width="70px"> Hᴇʏ Bᴀʙʏ ɪ'ᴍ ɴᴏᴏʙ ᴄᴏᴅᴇʀ </h1><p align="center">
   
 <p align="middle"><a href="https://github.com/MEIZNOOBCODER"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
   
   <h1> <img src = "https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
- [<img src="https://github-readme-stats.vercel.app/api?username=MEIZNOOBCODER&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEIZNOOBCODER&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)
+ [<img src="https://github-readme-stats.vercel.app/api?username=MEIZNOOBCODER&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="49%">](https://github.com/MEIZNOOBCODER)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEIZNOOBCODER&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)
 
 <p align="center">
   <a href="https://python.org/">
