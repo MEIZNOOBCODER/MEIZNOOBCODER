@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/CSS?wprov=sfla1">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </a>
-   </p>
-
+   </p> <br>
+   
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEIZNOOBCODER&theme=blue-green"> </p>
+   
+   
 
