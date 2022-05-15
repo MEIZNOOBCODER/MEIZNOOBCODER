@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **MEIZNOOBCODER/MEIZNOOBCODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
  
  
 <h1> <img src="https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/codes.webp" width="70px"> Hᴇʏ Bᴀʙʏ ɪ'ᴍ ɴᴏᴏʙ ᴄᴏᴅᴇʀ </h1><p align="center">
