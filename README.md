@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  [<img src="https://github-readme-stats.vercel.app/api?username=MEIZNOOBCODER&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEIZNOOBCODER&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href="<a href="https://www.python.org"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
    </p>
