@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   <h1> <img src = "https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
- [<img src="https://github-readme-stats.vercel.app/api?username=MEIZNOOBCODER&&show_icons=true&title_color=#60f542&icon_color=bb2acf&text_color=#31e30e&bg_color=#020501" width="49%">](https://github.com/MEIZNOOBCODER)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEIZNOOBCODER&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)
+ [<img src="https://github-readme-stats.vercel.app/api?username=MEIZNOOBCODER&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/MEIZNOOBCODER)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEIZNOOBCODER&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)
 
 <p align="center">
   <a href="https://python.org/">
