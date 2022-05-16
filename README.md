@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 
 
-
-<p align="center"> 
+ 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=1DF729&multiline=true&width=550&height=200&lines=HEY+BABY++%E2%9C%A8++;I'M+NOOB+DEV+FROM+BIHAR%2CINDIA+%F0%9F%92%AB;ND+I+WANNA+TELL+AB+MY+QUALIFICATION++%F0%9F%93%9A;I'M+PURSING+MY+BSC+FROM+MAGADH+UNIVERSITY%F0%9F%8E%93;MY+INTREST+IS+IN+WEB+DEVELOPEMENT;AND+I+HAVE+COMPLECTED+PYTHON%2CHTML%2CCSS+FROM+GOOGLE+)](https://git.io/typing-svg)
 
